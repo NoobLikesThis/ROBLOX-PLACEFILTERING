@@ -8,3 +8,12 @@ Simply, just type ```;PLACEID``` for another place ontop of the other filter. Fo
 
 ### ANNOYANCES
 For ```FStringDebugShowFlagState``` you can only use placefilters for ALL of the fast flags instead of being able to make SOME only visible in certain games, which can get annoying QUICK if you are trying to debug something without twenty other fast flags showing at the same time.
+
+### EXTRAS
+For a fake channel name in roblox, use this fflag list and edit the value of ```DFStringChannelName``` to whatever you want.
+```json
+{
+    "DFStringChannelName": "channelname",
+    "FStringDebugShowFlagState": "DFStringChannelName"
+}
+```
