@@ -19,8 +19,14 @@ For a fake channel name in roblox, use this fflag list and edit the value of ```
 ```
 ### KNOWN SUPPORT
 Injectors that are **NOT** sensitive on values.
-### [FLEASION (GITHUB)](https://github.com/fleasion/Fleasion/releases)
-### [FLEASION (ALTERNATIVE LINK)](https://fleasion.github.io/)
-### [FIDDLER EVERYWHERE (PAID)](https://www.telerik.com/download/fiddler/fiddler-everywhere-windows)
-### [FIDDLER EVERYWHERE (CRACKED VERSION)](https://github.com/NoobLikesThis/fiddler-everywhere-patch-automated/releases/download/frsss/Fiddler-Everywhere-V7.8.0-Patched.zip)
-### [XSDR INJECTOR (BUGGY)](https://github.com/creatornawaf/XSDR-Injector/releases)
+
+[FLEASION (GITHUB)](https://github.com/fleasion/Fleasion/releases)
+
+[FLEASION (ALTERNATIVE LINK)](https://fleasion.github.io/)
+
+[FIDDLER EVERYWHERE (PAID)](https://www.telerik.com/download/fiddler/fiddler-everywhere-windows)
+
+[FIDDLER EVERYWHERE (CRACKED VERSION)](https://github.com/NoobLikesThis/fiddler-everywhere-patch-automated/releases/download/frsss/Fiddler-Everywhere-V7.8.0-Patched.zip)
+
+[XSDR INJECTOR (BUGGY)](https://github.com/creatornawaf/XSDR-Injector/releases)
+
